@@ -1,0 +1,32 @@
+body {
+    font-family: Courier New, sans-serif;
+    background-color: #050202;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(226, 21, 21); /* Change this to your desired text color */
+}
+
+
+header {
+    background-color: #050202;
+    color: rgb(154, 30, 30);
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+section h2 {
+    color: #a71111;
+}
+
+footer {
+    background-color: #050202;
+    color: rgb(208, 85, 85);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
